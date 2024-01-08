@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kunal Shinde</h1>
-<h3 align="center">I am a passionate web developer with a keen interest in the dynamic realm of Machine Learning and Robotics. Studying at Pune Institute of Computer Technology. Beyond the digital landscape, I find myself immersed in the intricate tapestry of international politics.My love for analyzing geopolitical events allows me to navigate the complexities of our globalized world. I'm not just a silent observer. Engaging in discussions on Twitter, I express my views and critique anti-nationalist sentiments. It's a platform where I share my perspectives on issues that matter</h3>
+<h4 align="center">I am a passionate web developer with a keen interest in the dynamic realm of Machine Learning and Robotics. Studying at Pune Institute of Computer Technology. Beyond the digital landscape, I find myself immersed in the intricate tapestry of international politics.My love for analyzing geopolitical events allows me to navigate the complexities of our globalized world. I'm not just a silent observer. Engaging in discussions on Twitter, I express my views and critique anti-nationalist sentiments. It's a platform where I share my perspectives on issues that matter</h4>
 <img align = "right" alt="coding" width="400" src="https://camo.githubusercontent.com/30f786dd26e83d30d92f7a413a17a011723a49b1f38e4e73170ccc10f7e4194e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a6e57515f55354e4b45664e6547435466685f322d4d772e676966">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunals0612&label=Profile%20views&color=0e75b6&style=flat" alt="kunals0612" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kunals" target="blank"><img src="https://img.shields.io/twitter/follow/kunals?logo=twitter&style=for-the-badge" alt="kunals" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kunals0612" target="blank"><img src="https://img.shields.io/twitter/follow/kunals0612?logo=twitter&style=for-the-badge" alt="kunals0612" /></a> </p>
 
 - 🌱 I’m currently learning **Backend Development**
 
@@ -14,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kunals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunals" height="30" width="40" /></a>
+<a href="https://twitter.com/kunals0612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunals0612" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kunal s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal s" height="30" width="40" /></a>
 </p>
 
